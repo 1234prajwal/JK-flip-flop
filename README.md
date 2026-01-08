@@ -1,0 +1,1 @@
+Designed and verified a positive-edge triggered JK flip-flop and equivalent D flip-flop implementation using synthesizable Verilog RTL; ensured race-free operation and validated functionality through simulation-based verification.
